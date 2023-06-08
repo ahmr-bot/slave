@@ -1,0 +1,14 @@
+[Server]
+Host = "localhost"
+Port = 8080
+
+[Debug]
+Debug = false
+
+[Sync]
+Endpoint = "https://example.com/api"
+MinioEndpoint = "gd.awa.im:60020"
+AccessKey = "Aehxy"
+SecretKey = ""
+UseSSL = false
+BucketName = "test"
